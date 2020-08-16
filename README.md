@@ -11,17 +11,13 @@
 - 🥅  2020 Goals: Read 50 books
 - 📫  How to reach me: ping me [@twitter][twitter]
 
-### Spotify Playing 🎧
-
-<iframe src="https://open.spotify.com/embed/playlist/07uydAJk8puPo5EC9gPNbh" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 ### Connect with me:
 
 [<img align="left" alt="cypherkunp.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="cypherkunp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cypherkunp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cypherkunp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
+[<img align="left" alt="cypherkunp | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br />
 
@@ -50,3 +46,4 @@
 [youtube]: https://www.youtube.com/channel/UCeUQ0WbxBBBnulyLBhCupkw
 [twitter]: https://twitter.com/cypherkunp
 [linkedin]: https://www.linkedin.com/in/devvratshukla/
+[spotify]: https://open.spotify.com/playlist/07uydAJk8puPo5EC9gPNbh?si=eQFwQhTJRE-R35NiDxWr0w
