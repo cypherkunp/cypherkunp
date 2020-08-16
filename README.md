@@ -5,11 +5,11 @@
 
 ## I'm a Full Stack JavaScript Developer!
 
-- 🔭  I’m currently working on a font end application being built using Angular
+- 🔭  I’m currently working on a front-end application being built using Angular
 - 🌱  I’m currently learning Flutter and Angular
 - 👯  I’m looking to collaborate on open source JS projects
 - 🥅  2020 Goals: Read 50 books
-- 📫  How to reach me: ping me @twitter
+- 📫  How to reach me: ping me [@twitter][twitter]
 
 ### Spotify Playing 🎧
 
