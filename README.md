@@ -5,8 +5,8 @@
 
 ## I'm a Full Stack JavaScript Developer!
 
-- 🔭  I’m currently working on React and NodeJS!
-- 🌱  I'm currently learnign React Native and Flutter
+- 🔭  I’m currently working on React and NodeJS
+- 🌱  I'm currently learning React Native and Flutter
 - 👯  I’m looking to collaborate on open source JS projects
 - 🥅  2020 Goals: Read 50 books
 - 📫  How to reach me: ping me [@twitter][twitter]
