@@ -5,7 +5,7 @@
 
 ## I'm a Full Stack JavaScript Developer!
 
-- 🔭  I’m currently working on StencilJS and Serverless
+- 🔭  I’m currently working on building a web app using StencilJS and Serverless
 - 🌱  I'm currently learning everything
 - 👯  I’m looking to collaborate on open source JS projects
 - 🥅  2021 Goals: Doubling the code commits in 2020. 
