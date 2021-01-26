@@ -10,3 +10,6 @@
 - 👯  I’m looking to collaborate on open source JS projects
 - 🥅  2021 Goals: Doubling the code commits in 2020. 
 - 📫  How to reach me: ping me [@twitter][twitter]
+
+[website]: https://cypherkunp.github.io
+[twitter]: https://twitter.com/cypherkunp
