@@ -10,5 +10,12 @@
 - 🥅  2021 Goals: Doubling the code commits in 2020. 
 - 📫  How to reach me: ping me [@twitter][twitter]
 
+<!-- blank line -->
+<figure class="music_container">
+<iframe src="https://open.spotify.com/embed/playlist/07uydAJk8puPo5EC9gPNbh" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</figure>
+<!-- blank line -->
+
+
 [website]: https://cypherkunp.github.io
 [twitter]: https://twitter.com/cypherkunp
