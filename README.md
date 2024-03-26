@@ -1,7 +1,6 @@
 ### Hi there, I'm Devvrat - aka [cypherkunp][website] 👋 
 
-[![Website](https://img.shields.io/website?label=cypherkunp.github.io&style=for-the-badge&url=https%3A%2F%2Fcypherkunp.github.io)](https://devvrat.cc)
-[![Twitter Follow](https://img.shields.io/twitter/follow/cypherkunp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcypherkunp&screen_name=cypherkunp)
+[![Website](https://img.shields.io/website?label=devvrat.cc&style=for-the-badge&url=https%3A%2F%2Fcypherkunp.github.io)](https://devvrat.cc)
 
 ## I'm a Full Stack Software Architect!
 
